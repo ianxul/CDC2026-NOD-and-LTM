@@ -1,5 +1,0 @@
-# Tested with Python 3.14.  Any reasonably recent version of these works.
-numpy>=1.24
-scipy>=1.10
-matplotlib>=3.7
-networkx>=3.0
