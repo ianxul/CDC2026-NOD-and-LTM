@@ -1,0 +1,13 @@
+# Original, pre-reorganisation files, kept locally for reference.
+_archive/
+
+# Environments, editors and caches
+.claude/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
